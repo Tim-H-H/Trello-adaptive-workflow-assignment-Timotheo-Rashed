@@ -54,3 +54,31 @@ a {
     max-width: 300px;
     width: auto;
 }
+
+/* Timotheo CSS */
+
+.container-top {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.leftside-info {
+
+}
+
+.rightside-info {
+
+}
+
+.korv-info {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.korv {
+    background-color: #FCFCFB;
+    padding: 12px;
+}
